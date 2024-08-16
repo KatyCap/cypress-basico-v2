@@ -250,5 +250,6 @@
     "wrappy": "^1.0.2",
     "yauzl": "^2.10.0",
     "yocto-queue": "^0.1.0"
-  }
+  },
+  "packageManager": "yarn@4.4.0"
 }
